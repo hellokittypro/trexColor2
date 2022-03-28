@@ -1,2 +1,2 @@
-# trexColor2
-trexcolor
+# TrexColor
+Clase18
